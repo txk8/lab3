@@ -1,0 +1,20 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "node on heroku",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.ks"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertGordonUniversity/cm4025-coursework-txk8.git"
+  },
+  "author": "kate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertGordonUniversity/cm4025-coursework-txk8/issues"
+  },
+  "homepage": "https://github.com/RobertGordonUniversity/cm4025-coursework-txk8#readme"
+}
